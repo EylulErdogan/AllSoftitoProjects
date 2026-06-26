@@ -1,0 +1,117 @@
+﻿
+
+<section class="section section--first section--bg" data-bg="/flixgo/img/section/section.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section__wrap">
+                    <h2 class="section__title">Film Ekle</h2>
+
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb__item"><a href="/Home/Index">Home</a></li>
+                        <li class="breadcrumb__item"><a href="/Admin/Index">Admin Film Ekle</a></li>
+                        <li class="breadcrumb__item breadcrumb__item--active"><a href="/Admin/editpanel">Güncelleme İşlemleri</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+<div class="filter">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="filter__content">
+
+                    <div class="row w-100">
+                        <div class="col-md-3">
+                            <div class="sign__group">
+                                <input type="text" id="title" class="sign__input" placeholder="Film Adı">
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sign__group">
+                                <input type="text" id="description" class="sign__input" placeholder="Açıklama">
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sign__group">
+                                <input type="text" id="imageUrl" class="sign__input" placeholder="Resim Url">
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sign__group">
+                                <input type="number" id="releaseYear" class="sign__input" placeholder="Yayın Yılı">
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sign__group">
+                                <input type="text" id="imdb" class="sign__input" placeholder="IMDB">
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sign__group">
+                                <select id="categoryId" class="sign__input">
+                                    <option value="">Kategori Seçiniz</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sign__group">
+                                <input type="text" id="newCategoryName" class="sign__input" placeholder="Yeni kategori">
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sign__group">
+                                <select id="directorId" class="sign__input">
+                                    <option value="">Yönetmen Seçiniz</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="sign__group">
+                                <input type="text" id="newDirectorName" class="sign__input" placeholder="Yeni yönetmen">
+                            </div>
+                        </div>
+
+                        <div class="col-12 text-center mt-4">
+                            <button type="button" class="sign__btn" onclick="AddMovie()">
+                                Film Ekle
+                            </button>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</br>
+</br>
+</br>
+
+<div class="catalog mt-5">
+    <div class="container">
+        <div class="row" id="movieList"></div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/flixgo/js/adminmovie.js"></script>
+}

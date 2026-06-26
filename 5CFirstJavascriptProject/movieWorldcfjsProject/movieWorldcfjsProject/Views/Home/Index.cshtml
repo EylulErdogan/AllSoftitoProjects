@@ -1,0 +1,52 @@
+﻿
+
+<section class="section section--first section--bg" data-bg="/flixgo/img/section/section.jpg">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="section__wrap">
+					<!-- section title -->
+					<h2 class="section__title">Catalog list</h2>
+					<!-- end section title -->
+					<!-- breadcrumb -->
+					<ul class="breadcrumb">
+						<li class="breadcrumb__item"><a href="#">Home</a></li>
+						<li class="breadcrumb__item breadcrumb__item--active">Catalog list</li>
+					</ul>
+					<!-- end breadcrumb -->
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<div class="filter">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="filter__content">
+
+                    <div class="sign__group" style="width:100%; margin-bottom:0;">
+                        <input type="text" id="searchMovie" class="sign__input" placeholder="Film adı, kategori veya yönetmen ara...">
+                    </div>
+
+                    <button class="filter__btn" type="button" onclick="SearchMovie()">
+                        Ara
+                    </button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</br>
+</br>
+</br>
+<div class="catalog mt-5">
+    <div class="container">
+        <div class="row" id="movieList">
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script src="~/flixgo/js/custom.js"></script>
+}

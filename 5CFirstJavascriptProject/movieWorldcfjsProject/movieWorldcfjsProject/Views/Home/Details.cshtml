@@ -1,0 +1,176 @@
+﻿@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<input type="hidden" id="movieId" value="@ViewBag.Id" />
+
+<section class="section details">
+
+    <div class="details__bg" data-bg="/flixgo/img/home/home__bg.jpg"></div>
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-12">
+                <h1 class="details__title" id="movieTitle"></h1>
+            </div>
+
+            <div class="col-12 col-xl-6">
+
+                <div class="card card--details">
+                    <div class="row">
+
+                        <div class="col-12 col-sm-4 col-md-4 col-lg-3 col-xl-5">
+                            <div class="card__cover">
+
+                                <img id="movieImage" src="" alt="">
+
+                            </div>
+                        </div>
+
+                        <div class="col-12 col-sm-8 col-md-8 col-lg-9 col-xl-7">
+
+                            <div class="card__content">
+
+                                <div class="card__wrap">
+
+                                    <span class="card__rate" id="movieImdb">
+                                    </span>
+
+                                    <ul class="card__list">
+                                        <li>HD</li>
+                                        <li>16+</li>
+                                    </ul>
+
+                                </div>
+
+                                <ul class="card__meta">
+
+                                    <li>
+                                        <span>Kategori :</span>
+                                        <a href="#" id="movieCategory"></a>
+                                    </li>
+
+                                    <li>
+                                        <span>Yönetmen :</span>
+                                        <a href="#" id="movieDirector"></a>
+                                    </li>
+
+                                    <li>
+                                        <span>Yayın Yılı :</span>
+                                        <span id="movieYear"></span>
+                                    </li>
+
+                                </ul>
+
+                                <div class="card__description card__description--details"
+                                     id="movieDescription">
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col-12 col-xl-6">
+
+                <video controls crossorigin playsinline poster="/flixgo/img/home/home__bg.jpg" id="player">
+
+                    <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4"
+                            type="video/mp4">
+
+                </video>
+
+            </div>
+
+            <div class="col-12">
+
+                <div class="details__wrap">
+
+                    <div class="details__devices">
+
+                        <span class="details__devices-title">
+                            Available on devices:
+                        </span>
+
+                        <ul class="details__devices-list">
+
+                            <li>
+                                <i class="icon ion-logo-apple"></i>
+                                <span>IOS</span>
+                            </li>
+
+                            <li>
+                                <i class="icon ion-logo-android"></i>
+                                <span>Android</span>
+                            </li>
+
+                            <li>
+                                <i class="icon ion-logo-windows"></i>
+                                <span>Windows</span>
+                            </li>
+
+                            <li>
+                                <i class="icon ion-md-tv"></i>
+                                <span>Smart TV</span>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+                    <div class="details__share">
+
+                        <span class="details__share-title">
+                            Share with friends:
+                        </span>
+
+                        <ul class="details__share-list">
+
+                            <li class="facebook">
+                                <a href="#">
+                                    <i class="icon ion-logo-facebook"></i>
+                                </a>
+                            </li>
+
+                            <li class="instagram">
+                                <a href="#">
+                                    <i class="icon ion-logo-instagram"></i>
+                                </a>
+                            </li>
+
+                            <li class="twitter">
+                                <a href="#">
+                                    <i class="icon ion-logo-twitter"></i>
+                                </a>
+                            </li>
+
+                            <li class="vk">
+                                <a href="#">
+                                    <i class="icon ion-logo-vk"></i>
+                                </a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+@section Scripts {
+
+    <script src="~/flixgo/js/details.js"></script>
+
+}

@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\wwwroot\\flixgo\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\wwwroot\\flixgo\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\wwwroot\\flixgo\\js\\editpanel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\wwwroot\\flixgo\\js\\editpanel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\views\\admin\\editpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\views\\admin\\editpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/movieWorld/True/SqlTable/dbo.Movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\wwwroot\\flixgo\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\wwwroot\\flixgo\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\wwwroot\\flixgo\\js\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\wwwroot\\flixgo\\js\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eylul\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\details1.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\models\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\models\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\wwwroot\\flixgo\\js\\adminmovie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\wwwroot\\flixgo\\js\\adminmovie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eylul\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\catalog2.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\migrations\\20260618115253_addcolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\migrations\\20260618115253_addcolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\migrations\\20260618114611_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\migrations\\20260618114611_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\5cfirstjavascriptproject\\movieworldcfjsproject\\movieworldcfjsproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D53ED2-B2BE-7C76-6694-B2F15E9BFBDA}|movieWorldcfjsProject\\movieWorldcfjsProject.csproj|solutionrelative:movieworldcfjsproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "movieWorldcfjsProject\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T06:45:44.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "movieWorldcfjsProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-18T11:56:47.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Admin\\EditPanel.cshtml",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Views\\Admin\\EditPanel.cshtml",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Admin\\EditPanel.cshtml",
+              "RelativeToolTip": "movieWorldcfjsProject\\Views\\Admin\\EditPanel.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T08:33:16.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswGMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:51:17.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "editpanel.js",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\editpanel.js",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\editpanel.js",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\editpanel.js",
+              "RelativeToolTip": "movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\editpanel.js",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAUwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-19T08:59:08.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "movieWorldcfjsProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-18T12:30:35.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\css\\main.css",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\wwwroot\\FlixGo\\css\\main.css",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\css\\main.css",
+              "RelativeToolTip": "movieWorldcfjsProject\\wwwroot\\FlixGo\\css\\main.css",
+              "ViewState": "AgIAACwLAAAAAAAAAAAwwD8LAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-19T09:19:36.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvzYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:30:28.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Program.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Program.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Program.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:39:13.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Movies.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/movieWorld/True/SqlTable/dbo.Movies.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/movieWorld/True/SqlTable/dbo.Movies.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-19T08:34:14.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\custom.js",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\custom.js",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\custom.js",
+              "RelativeToolTip": "movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\custom.js",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAiwJQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-18T12:43:50.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "movieWorldcfjsProject\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwJMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T08:08:35.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "details1.html",
+              "DocumentMoniker": "C:\\Users\\eylul\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\details1.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\details1.html",
+              "ToolTip": "C:\\Users\\eylul\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\details1.html",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\details1.html",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-19T08:04:30.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "details.js",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\details.js",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\details.js",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\details.js",
+              "RelativeToolTip": "movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\details.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-19T08:11:40.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Models\\MovieCreateDto.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Models\\MovieCreateDto.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Models\\MovieCreateDto.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Models\\MovieCreateDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:37:41.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminmovie.js",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\adminmovie.js",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\adminmovie.js",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\adminmovie.js",
+              "RelativeToolTip": "movieWorldcfjsProject\\wwwroot\\FlixGo\\js\\adminmovie.js",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-19T06:46:30.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Models\\Movie.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Models\\Movie.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:29:27.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "catalog2.html",
+              "DocumentMoniker": "C:\\Users\\eylul\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\catalog2.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\catalog2.html",
+              "ToolTip": "C:\\Users\\eylul\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\catalog2.html",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\FlixGo-Online-Movies-Template\\FlixGo\\catalog2.html",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-19T06:30:11.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:37:10.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260618115253_addcolum.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Migrations\\20260618115253_addcolum.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Migrations\\20260618115253_addcolum.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Migrations\\20260618115253_addcolum.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Migrations\\20260618115253_addcolum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:52:53.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAHQCAAAAAAAAAAAiwH8CAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-18T12:20:00.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260618114611_Init.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Migrations\\20260618114611_Init.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Migrations\\20260618114611_Init.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Migrations\\20260618114611_Init.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Migrations\\20260618114611_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:46:11.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\appsettings.json",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\appsettings.json",
+              "RelativeToolTip": "movieWorldcfjsProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-18T11:39:14.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Models\\Director.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Models\\Director.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Models\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:28:15.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "movieWorldcfjsProject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\Models\\Category.cs",
+              "RelativeToolTip": "movieWorldcfjsProject\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:26:53.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

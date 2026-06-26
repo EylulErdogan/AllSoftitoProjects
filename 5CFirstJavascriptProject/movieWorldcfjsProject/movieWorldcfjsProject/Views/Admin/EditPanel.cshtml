@@ -1,0 +1,108 @@
+﻿@{
+    ViewData["Title"] = "EditPanel";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="section section--first section--bg" data-bg="/flixgo/img/section/section.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section__wrap">
+                    <h2 class="section__title">Admin Düzenleme Paneli</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section details">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-12 col-xl-12">
+                <div class="accordion" id="accordion">
+
+                    <div class="accordion__card">
+                        <div class="card-header" id="headingMovies">
+                            <button type="button" data-toggle="collapse" data-target="#collapseMovies" aria-expanded="true" aria-controls="collapseMovies">
+                                <span>Filmler</span>
+                                <span>Film güncelleme ve silme işlemleri</span>
+                            </button>
+                        </div>
+
+                        <div id="collapseMovies" class="collapse show" aria-labelledby="headingMovies" data-parent="#accordion">
+                            <div class="card-body">
+                                <table class="accordion__list">
+                                    <thead>
+                                        <tr>
+                                            <th>#</th>
+                                            <th>Film</th>
+                                            <th>Yıl</th>
+                                            <th>IMDB</th>
+                                            <th>İşlem</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="movieTable"></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion__card">
+                        <div class="card-header" id="headingCategories">
+                            <button class="collapsed" type="button" data-toggle="collapse" data-target="#collapseCategories" aria-expanded="false" aria-controls="collapseCategories">
+                                <span>Kategoriler</span>
+                                <span>Kategori güncelleme ve silme işlemleri</span>
+                            </button>
+                        </div>
+
+                        <div id="collapseCategories" class="collapse" aria-labelledby="headingCategories" data-parent="#accordion">
+                            <div class="card-body">
+                                <table class="accordion__list">
+                                    <thead>
+                                        <tr>
+                                            <th>#</th>
+                                            <th>Kategori Adı</th>
+                                            <th>İşlem</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="categoryTable"></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion__card">
+                        <div class="card-header" id="headingDirectors">
+                            <button class="collapsed" type="button" data-toggle="collapse" data-target="#collapseDirectors" aria-expanded="false" aria-controls="collapseDirectors">
+                                <span>Yönetmenler</span>
+                                <span>Yönetmen güncelleme ve silme işlemleri</span>
+                            </button>
+                        </div>
+
+                        <div id="collapseDirectors" class="collapse" aria-labelledby="headingDirectors" data-parent="#accordion">
+                            <div class="card-body">
+                                <table class="accordion__list">
+                                    <thead>
+                                        <tr>
+                                            <th>#</th>
+                                            <th>Yönetmen Adı</th>
+                                            <th>İşlem</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="directorTable"></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/flixgo/js/editpanel.js"></script>
+}
