@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\codefirstapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\codefirstapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|c:\\users\\eylul\\documents\\github\\softitoprojects\\6cfirstapiproject\\codefirstapiproject\\codefirstapiproject\\migrations\\20260622103009_ii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D068390-74CD-9463-8F06-E7D7BD493445}|codefirstapiProject\\codefirstapiProject.csproj|solutionrelative:codefirstapiproject\\migrations\\20260622103009_ii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "codefirstapiProject.http",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\codefirstapiProject.http",
+              "RelativeDocumentMoniker": "codefirstapiProject\\codefirstapiProject.http",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\codefirstapiProject.http",
+              "RelativeToolTip": "codefirstapiProject\\codefirstapiProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-26T19:16:23.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "codefirstapiProject\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Models\\Order.cs",
+              "RelativeToolTip": "codefirstapiProject\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:16:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "codefirstapiProject\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Models\\Customer.cs",
+              "RelativeToolTip": "codefirstapiProject\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T19:16:19.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "codefirstapiProject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Models\\Category.cs",
+              "RelativeToolTip": "codefirstapiProject\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T11:02:16.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "codefirstapiProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "codefirstapiProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T10:40:03.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Program.cs",
+              "RelativeDocumentMoniker": "codefirstapiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Program.cs",
+              "RelativeToolTip": "codefirstapiProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T10:41:08.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "codefirstapiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\appsettings.json",
+              "RelativeToolTip": "codefirstapiProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-22T10:29:45.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "codefirstapiProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "codefirstapiProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-22T10:51:17.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "codefirstapiProject\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "codefirstapiProject\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T10:30:47.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260622103009_ii.cs",
+              "DocumentMoniker": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Migrations\\20260622103009_ii.cs",
+              "RelativeDocumentMoniker": "codefirstapiProject\\Migrations\\20260622103009_ii.cs",
+              "ToolTip": "C:\\Users\\eylul\\Documents\\GitHub\\SoftItoProjects\\6CFirstApiProject\\codefirstapiProject\\codefirstapiProject\\Migrations\\20260622103009_ii.cs",
+              "RelativeToolTip": "codefirstapiProject\\Migrations\\20260622103009_ii.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T10:30:10.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
